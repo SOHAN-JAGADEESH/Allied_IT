@@ -55,7 +55,7 @@ const Testimonials = () => {
                                 </div>
 
                                 <blockquote className="flex-1 mt-8">
-                                    <p className="text-lg leading-relaxed text-gray-900 font-pj">“You made it so simple. My new site is so much faster and easier to work with than my old site. I just choose the page, make the change.”</p>
+                                    <p className="text-lg leading-relaxed text-gray-900 font-pj">“Allied IT transformed our office move into a seamless experience. Their team was incredibly professional, ensuring our IT systems were up and running with zero downtime. It's rare to find such a dedicated and efficient service. They truly understand the needs of a modern business”</p>
                                 </blockquote>
                             </div>
 
@@ -101,7 +101,7 @@ const Testimonials = () => {
                                 </div>
 
                                 <blockquote className="flex-1 mt-8">
-                                    <p className="text-lg leading-relaxed text-gray-900 font-pj">“Simply the best. Better than all the rest. I’d recommend this product to beginners and advanced users.”</p>
+                                    <p className="text-lg leading-relaxed text-gray-900 font-pj">“Choosing Allied IT for our IT relocation was the best decision we made. Their meticulous planning and execution meant that our transition to the new office was smooth and stress-free. Their expertise in handling complex IT systems is unmatched. Highly recommend their services for any business move!”</p>
                                 </blockquote>
                             </div>
 
@@ -147,7 +147,7 @@ const Testimonials = () => {
                                 </div>
 
                                 <blockquote className="flex-1 mt-8">
-                                    <p className="text-lg leading-relaxed text-gray-900 font-pj">“I cannot believe that I have got a brand new landing page after getting Omega. It was super easy to edit and publish.”</p>
+                                    <p className="text-lg leading-relaxed text-gray-900 font-pj">“The team at Allied IT exceeded our expectations during our recent office relocation. Their attention to detail and proactive communication ensured a flawless transition of our IT infrastructure. We experienced no disruption in our operations, which is a testament to their skill and planning. Allied IT is now our go-to for all IT-related needs.”</p>
                                 </blockquote>
                             </div>
 

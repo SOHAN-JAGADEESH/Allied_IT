@@ -48,12 +48,12 @@ export const features = [
 ];
 
 export const services = [
-  { id: "service-1", icon: shield, title: "Service 1", content: "Description for Service 1" },
-  { id: "service-2", icon: shield, title: "Service 2", content: "Description for Service 2" },
-  { id: "service-3", icon: shield, title: "Service 3", content: "Description for Service 3" },
-  { id: "service-4", icon: shield, title: "Service 4", content: "Description for Service 4" },
-  { id: "service-5", icon: shield, title: "Service 5", content: "Description for Service 5" },
-  { id: "service-6", icon: shield, title: "Service 6", content: "Description for Service 6" },
+  { id: "service-1", icon: shield, title: "IT Relocation Services", content: "Seamless transition and setup of IT infrastructure during office moves" },
+  { id: "service-2", icon: shield, title: "IT Project Management", content: "Expert management for IT projects, ensuring timely, efficient delivery." },
+  { id: "service-3", icon: shield, title: "Asset Deployment Services", content: "Efficient deployment of IT assets, optimized for business requirements." },
+  { id: "service-4", icon: shield, title: "E Waste Management", content: "Eco-friendly disposal and recycling of electronic waste and equipment" },
+  { id: "service-5", icon: shield, title: "Test and Tag", content: "Safety compliance testing and tagging for electrical and IT equipment." },
+  { id: "service-6", icon: shield, title: "Network Services", content: "Reliable network setup, maintenance, and support for business operations" },
 ];
 
 
